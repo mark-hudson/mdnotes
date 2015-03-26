@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "0.1.0",
+  "description": "Serve mini web server with markdown notes converted to web pages. Includes support for tagging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "keywords": [
+    "notes",
+    "markdown",
+    "tags",
+    "web",
+    "util"
+  ],
+  "author": "Mark Hudson <markdhudson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "lodash": "^3.6.0"
+  }
+}
