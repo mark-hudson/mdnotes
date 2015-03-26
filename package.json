@@ -1,7 +1,7 @@
 {
   "name": "mdnotes",
   "version": "0.1.0",
-  "description": "Serve mini web server with markdown notes converted to web pages. Includes support for tagging",
+  "description": "Serve mini web server with markdown notes converted to web pages. Include support for tagging (hopefully)",
   "main": "index.js",
   "scripts": {
     "test": "echo"
